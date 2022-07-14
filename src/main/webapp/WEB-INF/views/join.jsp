@@ -10,10 +10,10 @@
 	<h2>회원가입</h2>
 	<hr>
 	<form action="joinOk">
-		이름 : <input type="text" name="name"><br>
-		아이디 : <input type="text" name="id"><br>
-		비번 : <input type="text" name="pw"><br>
-		이메일 : <input type="text" name="email"><br>	
+		이름 : <input type="text" name="name"><br><br>
+		아이디 : <input type="text" name="id"><br><br>
+		비번 : <input type="text" name="pw"><br><br>
+		이메일 : <input type="text" name="email"><br><br>	
 		<input type="submit" value="회원가입">
 	</form>
 </body>
